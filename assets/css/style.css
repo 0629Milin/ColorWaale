@@ -49,6 +49,16 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
+.colorwaale{
+  padding: -5px;
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.subtitle{
+ font-size: large;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -138,6 +148,15 @@ h1, h2, h3, h4, h5, h6 {
   #header .countdown div h4 {
     font-size: 14px;
     font-weight: 500;
+  }
+  .colorwaale {
+    font-size: 30px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 6%;
+  }
+  .subtitle{
+    margin: 6%;
   }
 }
 
